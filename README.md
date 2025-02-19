@@ -1,4 +1,4 @@
-![Your Alt Text].(assets/data_scene.gif)
+![Banner](https://raw.githubusercontent.com/i-am-tushaar/i-am-tushaar/main/assets/data_scene.gi)
 
 # 💫 About Me:
 Results-driven Data Analyst with 4+ years of experience in in both industry and freelance projects across diverse domains. Skilled in leveraging tools like Python, SQL, Excel, and Power BI to analyze data, extract actionable insights, and drive data-informed business decisions.
