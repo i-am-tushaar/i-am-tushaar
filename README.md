@@ -1,3 +1,5 @@
+![Your Alt Text].(assets/1605626250783.jif)
+
 # 💫 About Me:
 Results-driven Data Analyst with 4+ years of experience in in both industry and freelance projects across diverse domains. Skilled in leveraging tools like Python, SQL, Excel, and Power BI to analyze data, extract actionable insights, and drive data-informed business decisions.
 
