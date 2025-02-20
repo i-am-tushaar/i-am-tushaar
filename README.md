@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Hi, I’m Tushar Choudhary- a data enthusiast with a passion for turning raw numbers into actionable strategies. With 4-6 years of experience as a Data Analyst, I specialize in SQL, Excel, Python, Power BI, and machine learning to uncover insights that drive business growth.
+Hi, I’m Tushar Choudhary- a data enthusiast with a passion for turning raw numbers into actionable strategies. With 4+ years of experience as a Data Analyst, I specialize in SQL, Excel, Python, Power BI, and machine learning to uncover insights that drive business growth.
 
 Throughout my career, I’ve had the privilege of solving complex business problems and making data more approachable for everyone. One of my proudest achievements was developing a machine learning model that accurately predicted customer churn, leading to a 20% increase in customer retention within six months. I also designed automated dashboards in Power BI that cut reporting time by 50%, empowering teams to focus on strategic decisions rather than manual tasks.
 
