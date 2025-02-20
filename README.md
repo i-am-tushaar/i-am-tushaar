@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/i-am-tushaar/i-am-tushaar/main/assets/data_scene.gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Choudhary!;" />
+</h1>
 
 # 💫 About Me:
 Hi, I’m Tushar Choudhary- a data enthusiast with a passion for turning raw numbers into actionable strategies. With 4-6 years of experience as a Data Analyst, I specialize in SQL, Excel, Python, Power BI, and machine learning to uncover insights that drive business growth.
